@@ -5,3 +5,18 @@
 </h1>
 
 
+
+### 🎲 Rodando o projeto
+
+```bash
+# Instale as dependências
+$ yarn install
+# ou
+$ npm install
+
+# Execute a aplicação
+$ yarn dev
+# ou
+$ npm run dev
+```
+
